@@ -12,6 +12,6 @@ I'm Gus, a developer and designer with 3 months of experience
 []
 
 ### Statisitcs
-![GitHub Views](https://komarev.com/ghpvc/?username=hobbyshop&color=AA80FF)
+![GitHub Views](https://komarev.com/ghpvc/?username=97st&color=AA80FF)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobbyshop&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97st&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
